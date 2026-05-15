@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.1](https://github.com/fortify/github-action/compare/v3.1.0...v3.1.1) (2026-05-15)
+
+
+### Bug Fixes
+
+* Update dependencies ([8499a16](https://github.com/fortify/github-action/commit/8499a16f4288e9536889f2a74f4421bab20c3554))
+* Update setup action to Node.js 24 ([7afe7f3](https://github.com/fortify/github-action/commit/7afe7f36df6ced6eedf94c28120c2fafcfd51f30))
+
 ## [3.1.0](https://github.com/fortify/github-action/compare/v3.0.0...v3.1.0) (2026-04-22)
 
 
