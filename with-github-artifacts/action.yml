@@ -20,7 +20,7 @@ runs:
   steps:
     - name: Run Fortify AST Scan
       id: run_ast_scan
-      uses: fortify/github-action/without-artifacts@main
+      uses: fortify/github-action/without-artifacts@mjain6/update3rdPartyWrappers
       with:
         debug: ${{ inputs.debug }}
 
